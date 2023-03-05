@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nn4+uS1sJxAG3emneQTxXp2WXiveMzh5/dn5KTzH2o1Mq1s3B1sDqIlGY+5QcKORT1YLhIHCyYwplmuIEKzK/g==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Projects\\HypeGirlsTelegramBot\\HypeGirlsTelegramBot\\HypeGirlsTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzmi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\kuzmi\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
